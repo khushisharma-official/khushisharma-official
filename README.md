@@ -1,6 +1,6 @@
 ### नमस्ते (Namaste)🙏🏻, I'm Khushi!
 
-
+![Alt Text](C:\Users\DVS\Desktop\20220705_2129492.gif)
 
 ## About me: 
 
