@@ -1,16 +1,15 @@
-### Hi there 👋
+### नमस्ते (Namaste)🙏🏻, I'm Khushi!
 
-<!--
-**khushisharma-official/khushisharma-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About me: 
+
+- 🎓 Pursuing B.Tech in Electronics and Communication Engineering at IP University, Delhi.
+- 💻 Learning more about Python, Machine Learning and Artificial Intelligence.
+- 🍂 Exploring Music and different languages (e.g. French, Japanese, Korean etc) as hobbies/side hustles.
+- 🤔 I’m looking for a Machine Learning internship.
+- 💬 How to reach me: Gmail
+- 👩 Pronouns: She/Her
+- 🌻 Interests: huge Harry Styles fan, Music, Dance, food, Travel, 🐱 Mingi
+- ⚡ Fun fact: I'm a foodie.
 -->
