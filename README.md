@@ -8,8 +8,7 @@
 - 💻 Learning more about Python, Machine Learning and Artificial Intelligence.
 - 🍂 Exploring Music and different languages (e.g. French, Japanese, Korean etc) as hobbies/side hustles.
 - 🤔 I’m looking for a Machine Learning internship.
-- 💬 How to reach me: Gmail
+- 💬 How to reach me: khushisharma2302@gmail.com
 - 👩 Pronouns: She/Her
 - 🌻 Interests: huge Harry Styles fan, Music, Dance, food, Travel, 🐱 Mingi
 - ⚡ Fun fact: I'm a foodie.
--->
