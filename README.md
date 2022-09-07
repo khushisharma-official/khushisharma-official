@@ -1,6 +1,5 @@
 # नमस्ते (Namaste)🙏🏻, I'm Khushi!
 
-![grab-landing-page](https://github.com/khushisharma-official/khushisharma-official/blob/main/Banner2.png)
 
 ## About me: 
 
