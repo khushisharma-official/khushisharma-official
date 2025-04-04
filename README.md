@@ -23,5 +23,5 @@ I specialize in **Machine Learning, Computer Vision, and AI-driven security solu
 ⚡ Dev Tools: VS Code, Jupyter Notebook, Google Colab  
 
 📫 **Let’s Connect!**  
-📍 **LinkedIn:** [[linkedin.com/in/your-profile](https://www.linkedin.com/in/khushi-sh/)]  
-📍 **GitHub:** [[github.com/your-profile](https://github.com/khushisharma-official/)]
+📍 **LinkedIn:** [[linkedin.com/in/khushi-sh](https://www.linkedin.com/in/khushi-sh/)]  
+📍 **GitHub:** [[github.com/khushisharma-official](https://github.com/khushisharma-official/)]
