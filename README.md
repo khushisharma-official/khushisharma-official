@@ -10,12 +10,6 @@ I specialize in **Machine Learning, Computer Vision, and AI-driven security solu
 🔹 Worked with **Flask, OpenCV, TensorFlow, and NLP frameworks** to deploy real-world ML applications  
 🔹 Optimized and tested **third-party AI systems** for enterprise-level security infrastructure at JPL.  
 
-## 🔗 **My Projects**
-🚀 **[AI-Powered Legal Document Analyzer](#)** – Extracts key clauses from legal contracts using OCR + NLP  
-🎥 **[Real-time Face Recognition & Attendance System](#)** – Automates attendance with deep learning and OpenCV  
-🛡️ **[AI-Powered Surveillance & Anomaly Detection](#)** – Detects unusual behavior in CCTV footage  
-🧠 **[Medical AI – Brain Tumor & Alzheimer's Prediction](#)** – Deep learning model for MRI-based disease detection  
-
 ## 🔧 **Tech Stack**
 💻 Python, C++, Flask, TensorFlow, OpenCV, NLP (NLTK, SpaCy)  
 📂 Databases: MySQL, MSSQL  
