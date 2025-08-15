@@ -1,4 +1,4 @@
-# 👋 नमस्ते (Namaste), I'm Khushi! 
+# 👋 Hi, I'm Khushi! 
 
 🚀 **SDE | AI Solutions Engineer @ Jio Platforms**  
 
