@@ -7,7 +7,7 @@ SDE-I with hands-on experience in developing AI-driven systems & solutions, spec
 Proficient in Python, DSA, OOPs, Databases, deep learning frameworks, and backend integration, passionate about building scalable, real-world tech solutions that enhance operations across industries.
 
 ## 🔧 **Tech Stack**
-💻 Python, C++, Flask, OpenCV, NLP (NLTK, SpaCy)  
+💻 Python, C++, DSA, OOPs, ML Algorithms, Deep Neural Networks, Flask, OpenCV, NLP (NLTK, SpaCy) 
 📂 Databases: MySQL, MongoDB  
 ⚡ Dev Tools: VS Code, Jupyter Notebook, Google Colab , Github
 
