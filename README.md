@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khushi! 
 
-🚀 **SDE | AI Solutions Engineer @ Jio Platforms**  
+🚀 **AI Solutions Engineer @ Jio Platforms**  
 
 SDE-I with hands-on experience in developing AI-driven systems & solutions, specializing in computer vision and smart infrastructure solutions. At Jio Platforms, I evaluated commercial AI based smart automation solutions. I developed as well as supported in designing and integration of such solutions into large-scale systems.
 
