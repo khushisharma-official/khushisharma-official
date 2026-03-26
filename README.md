@@ -9,9 +9,11 @@ Proficient in C#, .NET, Databases, backend integration, REST API design, caching
 Passionate about building scalable, real-world tech solutions using modern AI advancements that enhance operations across industries.
 
 ## 🔧 **Tech Stack**
-💻 Python, C++, ML Algorithms, Deep Neural Networks, Flask, Streamlit, OpenCV, Mediapipe, NLP (NLTK, SpaCy)
-📂 Databases: MySQL, MongoDB  
-⚡ Dev Tools: VS Code, Jupyter Notebook, Google Colab , Git
+💻 Languages: C# SQL Python
+⚡ Backend: .NET ASP.NET Core REST APIs Microservices Dependency Injection Async/Await Multithreading Kafka
+📂 Database & Caching: SQL Server PostgreSQL (exposure) MongoDB Redis
+🔋 Devops: Azure DevOps CI/CD Pipelines Git Docker (exposure)
+🌐 CS Fundamentals: OOP Data Structures System Design
 
 📫 **Let’s Connect!**  
 📍 **LinkedIn:** [[linkedin.com/in/khushi-sh](https://www.linkedin.com/in/khushi-sh/)]  
