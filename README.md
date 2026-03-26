@@ -3,9 +3,10 @@
 🚀 **Software Development Engineer @ Jio Platforms**  
 
 Backend Engineer with hands-on experience in building high-throughput, event-driven backend systems using C#, .NET, ASP.NET. Designed distributed services processing millions of real-time device events across hundreds of sites. Strong in
-REST API design, caching strategies, asynchronous programming, database optimization, and scalable microservice
-architecture.
-Proficient in C#, .NET, Databases and backend integration, passionate about building scalable, real-world tech solutions that enhance operations across industries.
+
+Proficient in C#, .NET, Databases, backend integration, REST API design, caching strategies, asynchronous programming, database optimization, and scalable microservice architecture. 
+
+Passionate about building scalable, real-world tech solutions using modern AI advancements that enhance operations across industries.
 
 ## 🔧 **Tech Stack**
 💻 Python, C++, ML Algorithms, Deep Neural Networks, Flask, Streamlit, OpenCV, Mediapipe, NLP (NLTK, SpaCy)
