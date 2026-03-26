@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Khushi! 
 
-🚀 **AI Solutions Engineer @ Jio Platforms**  
+🚀 **Software Development Engineer @ Jio Platforms**  
 
-Engineer with hands-on experience in evaluating and developing AI-driven systems & solutions, specializing in computer vision and smart infrastructure solutions. At Jio Platforms, I evaluated commercial AI based smart automation solutions. I developed as well as supported in designing and integration of such solutions into large-scale systems.
-
-Proficient in Python, Machine Learning, Deep Learning Frameworks, Databases and backend integration, passionate about building scalable, real-world tech solutions that enhance operations across industries.
+Backend Engineer with hands-on experience in building high-throughput, event-driven backend systems using C#, .NET, ASP.NET. Designed distributed services processing millions of real-time device events across hundreds of sites. Strong in
+REST API design, caching strategies, asynchronous programming, database optimization, and scalable microservice
+architecture.
+Proficient in C#, .NET, Databases and backend integration, passionate about building scalable, real-world tech solutions that enhance operations across industries.
 
 ## 🔧 **Tech Stack**
 💻 Python, C++, ML Algorithms, Deep Neural Networks, Flask, Streamlit, OpenCV, Mediapipe, NLP (NLTK, SpaCy)
