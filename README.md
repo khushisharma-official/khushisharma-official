@@ -10,9 +10,13 @@ Passionate about building scalable, real-world tech solutions using modern AI ad
 
 ## 🔧 **Tech Stack**
 💻 Languages: C# SQL Python
+
 ⚡ Backend: .NET ASP.NET Core REST APIs Microservices Dependency Injection Async/Await Multithreading Kafka
+
 📂 Database & Caching: SQL Server PostgreSQL (exposure) MongoDB Redis
+
 🔋 Devops: Azure DevOps CI/CD Pipelines Git Docker (exposure)
+
 🌐 CS Fundamentals: OOP Data Structures System Design
 
 📫 **Let’s Connect!**  
