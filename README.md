@@ -21,4 +21,3 @@ Passionate about building scalable, real-world tech solutions using modern AI ad
 
 📫 **Let’s Connect!**  
 📍 **LinkedIn:** [[linkedin.com/in/khushi-sh](https://www.linkedin.com/in/khushi-sh/)]  
-📍 **GitHub:** [[github.com/khushisharma-official](https://github.com/khushisharma-official/)]
